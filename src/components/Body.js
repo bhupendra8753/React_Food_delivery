@@ -1,9 +1,10 @@
 import RestaurantCard, { withPromotedLabel } from "./RestaurantCard";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import { RESTAURANT_DATA_API } from "../utils/constants";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContex";
 
 const Body = () => {
   // Local State Variable - Super powerful variable
@@ -15,7 +16,7 @@ const Body = () => {
   const RestauranrCardPromoted = withPromotedLabel(RestaurantCard);
 
   // Whenever state variables update, react triggers a reconciliation cycle(re-renders the component)
-  console.log("Body Rendered", listOfRestaurants);
+  //console.log("Body Rendered", listOfRestaurants);
 
   useEffect(() => {
     fetchData();
@@ -25,14 +26,14 @@ const Body = () => {
     const data = await fetch(RESTAURANT_DATA_API);
 
     const json = await data.json();
-    console.log(json);
+    //console.log(json);
 
     // Optional Chaining
     setListOfRestraunt(
-      json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants
+      json?.data?.cards[3]?.card?.card?.gridElements?.infoWithStyle?.restaurants
     );
     setFilteredRestaurant(
-      json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants
+      json?.data?.cards[3]?.card?.card?.gridElements?.infoWithStyle?.restaurants
     );
   };
 
@@ -45,6 +46,8 @@ const Body = () => {
       </h1>
     );
 
+  const { loggedInUser, setUserName } = useContext(UserContext);
+
   return listOfRestaurants.length === 0 ? (
     <Shimmer />
   ) : (
@@ -53,7 +56,7 @@ const Body = () => {
         <div className="search m-4 p-4">
           <input
             type="text"
-            className="border border-solid border-black rounded-md"
+            className="border border-solid border-black rounded-md p-1"
             value={searchText}
             onChange={(e) => {
               setSearchText(e.target.value);
@@ -89,6 +92,10 @@ const Body = () => {
           >
             Top Rated Restaurants
           </button>
+        </div>
+        <div className="search m-4 p-4 flex items-center">
+          <label>UserName</label>
+          <input className="border border-black rounded-lg p-1" value={loggedInUser} onChange={(e) => setUserName(e.target.value)}/>
         </div>
       </div>
       <div className="flex flex-wrap">
