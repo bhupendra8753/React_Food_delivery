@@ -10,6 +10,8 @@ import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import Shimmer from "./components/Shimmer";
 import UserContext from "./utils/UserContex";
 //import Grocery from "./components/Grocery";
+import { Provider } from "react-redux";
+import appStore from "./utils/appStore";
 
 //Chunking
 //Code Splitting
@@ -34,17 +36,19 @@ const AppLayout = () => {
 
   return (
     // Default User
-    <UserContext.Provider value={{ loggedInUser : userName, setUserName}}>
-      {/* Dungeon Master */}
-      <div className="app">
-      {/* <UserContext.Provider value={{ loggedInUser : "Bhupendra"}}>
+    <Provider store={appStore}>
+      <UserContext.Provider value={{ loggedInUser: userName, setUserName }}>
+        {/* Dungeon Master */}
+        <div className="app">
+          {/* <UserContext.Provider value={{ loggedInUser : "Bhupendra"}}>
         { Bhupendra }
         <Header />
         </UserContext.Provider> */}
-        <Header />
-        <Outlet />
-      </div>
-    </UserContext.Provider>
+          <Header />
+          <Outlet />
+        </div>
+      </UserContext.Provider>
+    </Provider>
   );
 };
 
