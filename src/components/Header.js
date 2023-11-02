@@ -1,4 +1,5 @@
-import logo from "../../assets/logo.png"
+//import logo from "../../assets/logo.png"
+import { LOGO_URL } from "../utils/constants";
 import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
@@ -15,12 +16,11 @@ const Header = () => {
 
   // Subscribing to the store using selector
   const cartItems = useSelector((store) => store.cart.items);
-  console.log(cartItems);
 
   return (
     <div className="flex justify-between bg-pink-300 shadow-lg">
       <div className="logo-container">
-        <img className="w-36" src={logo} />
+        <img className="w-36" src={LOGO_URL} />
       </div>
       <div className="flex items-center">
         <ul className="flex p-4 m-4">
