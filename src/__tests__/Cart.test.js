@@ -19,13 +19,13 @@ global.fetch = jest.fn(() => {
 
 it("Should load Restro menu component", async () => {
     await act(async () => render(
-        <Provider store={appStore}>
-            <BrowserRouter>
+        <BrowserRouter>
+            <Provider store={appStore}>
                 <Header />
-            </BrowserRouter>
-            <RestaurantMenu />
-            <Cart />
-        </Provider>
+                <RestaurantMenu />
+                <Cart />
+            </Provider>
+        </BrowserRouter>
     ));
 
     const accordianHeader = screen.getByText("Recommended (14)");
@@ -33,11 +33,11 @@ it("Should load Restro menu component", async () => {
 
     expect(screen.getAllByTestId("foodItems").length).toBe(14);
 
-    const addBtns = screen.getAllByRole("button", {name : "Add +"});
+    const addBtns = screen.getAllByRole("button", { name: "Add +" });
 
     fireEvent.click(addBtns[0]);
     expect(screen.getByText("Cart (1)")).toBeInTheDocument();
 
-    fireEvent.click(screen.getByRole("button", {name: "Clear Cart"}));
+    fireEvent.click(screen.getByRole("button", { name: "Clear Cart" }));
     expect(screen.getByText("Cart is Empty. Add items to Cart!")).toBeInTheDocument();
 })
