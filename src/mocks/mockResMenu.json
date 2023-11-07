@@ -1,0 +1,2552 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "481593",
+                            "name": "Chicken Shawarma Hub",
+                            "city": "Hyderabad",
+                            "slugs": {
+                                "restaurant": "chicken-shawarma-hub-madhapur-madhapur-2",
+                                "city": "hyderabad"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "wl0y7yoncrjv09vlkbie",
+                            "locality": "Parvathi Nagar",
+                            "areaName": "Madhapur",
+                            "costForTwo": "30000",
+                            "costForTwoMessage": "₹300 for two",
+                            "cuisines": [
+                                "Lebanese",
+                                "Snacks"
+                            ],
+                            "avgRating": 3.6,
+                            "feeDetails": {
+                                "restaurantId": "481593",
+                                "fees": [
+                                    {
+                                        "name": "time"
+                                    },
+                                    {
+                                        "name": "distance",
+                                        "fee": 2000
+                                    },
+                                    {
+                                        "name": "special"
+                                    }
+                                ],
+                                "totalFee": 2000,
+                                "icon": "v1648208530/surgecreatives/info",
+                                "message": "Very Far (509.7 kms) | Additional delivery fee will apply"
+                            },
+                            "parentId": "250",
+                            "avgRatingString": "3.6",
+                            "totalRatingsString": "100+ ratings",
+                            "sla": {
+                                "restaurantId": "481593",
+                                "lastMileTravel": 509.8,
+                                "serviceability": "NON_SERVICEABLE",
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "lastMileTravelString": "509.7 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2023-11-08 06:30:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "10% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "10% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off up to ₹40 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹200 | Above ₹249",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "chicken-shawarma-hub-madhapur-madhapur-2",
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "144, Gayatri Nagar, Parvathi Nagar, Borabanda, Hyderabad, Telangana 500018, India"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Lebanese,Snacks"
+                                }
+                            ],
+                            "totalRatings": 100,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "10% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "10% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off up to ₹40 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹200 | Above ₹249",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/481593"
+                            },
+                            "ratingSlab": "RATING_SLAB_4",
+                            "availabilityServiceabilityMessage": "Does not deliver to your location",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Wish you were"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSER!"
+                                },
+                                "message": {
+                                    "text": "This location is outside the outlet's delivery area",
+                                    "textColour": "negative"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#F64C41",
+                                    "bgGradientColorEnd": "#E53554"
+                                }
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "17.4575769,78.4025874"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "10% OFF UPTO ₹40",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "7ac2d2eb-f228-48bb-b338-82197e68ae8d"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE TRYNEW",
+                                            "description": "ABOVE ₹179",
+                                            "offerType": "offers",
+                                            "restId": "481593",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹200",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/be912a4c543f00172d9f82c033ee7239",
+                                            "offerIds": [
+                                                "c8fccdf4-5fc8-405a-9deb-81aebd68f68b"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "NO CODE REQUIRED",
+                                            "description": "ABOVE ₹249",
+                                            "offerType": "offers",
+                                            "restId": "481593",
+                                            "offerLogo": "rng/md/ads/production/be912a4c543f00172d9f82c033ee7239",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹50 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/c759c05f0542e1439c15d865b105ccea",
+                                            "offerIds": [
+                                                "55d5cd7c-9573-4437-ba2e-55eaee893a75"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "NO CODE REQUIRED",
+                                            "description": "ABOVE ₹399",
+                                            "offerType": "offers",
+                                            "restId": "481593",
+                                            "offerLogo": "rng/md/ads/production/c759c05f0542e1439c15d865b105ccea",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹50 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "offerIds": [
+                                                "3bea9ef2-b96e-4267-a8f7-2fee812fdb40"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "NO CODE REQUIRED",
+                                            "description": "ABOVE ₹499",
+                                            "offerType": "offers",
+                                            "restId": "481593",
+                                            "offerLogo": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹120",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/1acdb97aadcb61b323307845bda86535",
+                                            "offerIds": [
+                                                "8cc39db2-39a0-49ee-9252-0b3f82787583"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FEDERALCC",
+                                            "description": "ABOVE ₹299",
+                                            "offerType": "offers",
+                                            "restId": "481593",
+                                            "offerLogo": "rng/md/ads/production/1acdb97aadcb61b323307845bda86535",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {}
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204609",
+                                                            "name": "Khubus Special",
+                                                            "category": "Khubus",
+                                                            "description": "Khubus with diced chicken. Serves without salad.",
+                                                            "imageId": "wkgssvnek8mzp6mdhx6f",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "6 ratings",
+                                                                    "ratingCountV2": "6"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204613",
+                                                            "name": "Khubus Regular",
+                                                            "category": "Khubus",
+                                                            "description": "Khubus with diced chicken and serves with salad.",
+                                                            "imageId": "qf0ombhkd799wbfzhs27",
+                                                            "inStock": 1,
+                                                            "price": 15900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.4",
+                                                                    "ratingCount": "8 ratings",
+                                                                    "ratingCountV2": "8"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968983",
+                                                            "name": "Rumali Regular",
+                                                            "category": "Rumali",
+                                                            "description": "Diced chicken rolled in rumali roti with homemade mayo and salad",
+                                                            "imageId": "f5dd642f9b3ba65b56a8dc3baccd3ba1",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204550",
+                                                            "name": "Grilled Samoli Special Shawarma",
+                                                            "category": "Shawarma",
+                                                            "description": "Grilled samoli stuffed with mayo and diced chicken",
+                                                            "imageId": "hrod1qeotghog6qowt73",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "16 ratings",
+                                                                    "ratingCountV2": "16"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204493",
+                                                            "name": "Peri Peri Shawarma In Khubus",
+                                                            "category": "Shawarma",
+                                                            "description": "Fresh pita bread loaded with only diced chicken with per peri masala",
+                                                            "imageId": "tz7gn93byena7rf8o2kg",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968988",
+                                                            "name": "Cheesy Jalapeno Shawarma In Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "Cheesy jalapeno shawarma in rumali",
+                                                            "imageId": "uuvwnfaqzwbagahrhknc",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968990",
+                                                            "name": "Cheese Shawarma Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "Contains cheese, rumali, chicken.",
+                                                            "imageId": "ahy3d7c9uhhtdteqytqw",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "1.8",
+                                                                    "ratingCount": "7 ratings",
+                                                                    "ratingCountV2": "7"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968993",
+                                                            "name": "Peri Peri Shawarma In Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "Mayo, chicken, peri peri sauce(serves 1).",
+                                                            "imageId": "oyyzveor5hrgjgrvqnjc",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "2.8",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968994",
+                                                            "name": "Exotic Chicken Shawarma In Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "A portal to heaven, this irresistible shawarma has chicken in rumali with added layered in bbq, thousand of island, peri peri, cheesy jalapeno, aioli garlic sauce and lots of mayonnaise...",
+                                                            "imageId": "fj5v94blq56shke21poa",
+                                                            "inStock": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "2.5",
+                                                                    "ratingCount": "14 ratings",
+                                                                    "ratingCountV2": "14"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969000",
+                                                            "name": "Samoli Special BBQ",
+                                                            "category": "Bbq Shawarma",
+                                                            "description": "Chicked warapped in samoli bread with homemade barbeque sauce",
+                                                            "imageId": "rhm6p75gge2c5asbq7pn",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969001",
+                                                            "name": "Rumali Special BBQ",
+                                                            "category": "Bbq Shawarma",
+                                                            "description": "Chicked warapped in rumali roti with homemade barbeque sauce",
+                                                            "imageId": "lkfen8xa6cawx7jnuoix",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "11 ratings",
+                                                                    "ratingCountV2": "11"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969002",
+                                                            "name": "Khubus Special BBQ",
+                                                            "category": "Bbq Shawarma",
+                                                            "description": "Chicked warapped in pita bread with homemade barbeque sauce",
+                                                            "imageId": "wmu0sfkw2txnpkbm8vng",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204342",
+                                                            "name": "Cheese Jalapeno Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Cheese jalapeno dip",
+                                                            "imageId": "nv6n5xwtnu6tl9pftlle",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "86298685",
+                                                            "name": "Aioli Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Aioli dip",
+                                                            "imageId": "xb7noqz5liewrexmvqhu",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Healthy Fusion",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "90511611",
+                                                            "name": "Saahan Only Chicken",
+                                                            "category": "Healthy Fusion",
+                                                            "description": "Saahan only chicken",
+                                                            "imageId": "qhsau8tadgfj5ic7rjwj",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.3",
+                                                                    "ratingCount": "4 ratings",
+                                                                    "ratingCountV2": "4"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Quick Bites",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "90042475",
+                                                            "name": "Masala Fries",
+                                                            "category": "Quick Bites",
+                                                            "description": "Masala fries",
+                                                            "imageId": "lutan4nyrwawuja5nc7c",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 14900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.1",
+                                                                    "ratingCount": "7 ratings",
+                                                                    "ratingCountV2": "7"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969007",
+                                                            "name": "Regular Fries",
+                                                            "category": "Quick Bites",
+                                                            "description": "Regular fries",
+                                                            "imageId": "lutan4nyrwawuja5nc7c",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 13900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Khubus",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204609",
+                                                            "name": "Khubus Special",
+                                                            "category": "Khubus",
+                                                            "description": "Khubus with diced chicken. Serves without salad.",
+                                                            "imageId": "wkgssvnek8mzp6mdhx6f",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "6 ratings",
+                                                                    "ratingCountV2": "6"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204613",
+                                                            "name": "Khubus Regular",
+                                                            "category": "Khubus",
+                                                            "description": "Khubus with diced chicken and serves with salad.",
+                                                            "imageId": "qf0ombhkd799wbfzhs27",
+                                                            "inStock": 1,
+                                                            "price": 15900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.4",
+                                                                    "ratingCount": "8 ratings",
+                                                                    "ratingCountV2": "8"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Samoli",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968981",
+                                                            "name": "Samoli Regular",
+                                                            "category": "Samoli",
+                                                            "description": "Diced chicken wrapped in samoli bread with salad",
+                                                            "imageId": "blnycxcybqoe4jep5zpw",
+                                                            "inStock": 1,
+                                                            "price": 14900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968982",
+                                                            "name": "Samoli Special",
+                                                            "category": "Samoli",
+                                                            "description": "Diced chicken wrapped in samoli bread without salad",
+                                                            "imageId": "lukbyvvhhxp991a4akxv",
+                                                            "inStock": 1,
+                                                            "price": 15900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "21 ratings",
+                                                                    "ratingCountV2": "21"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Rumali",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968983",
+                                                            "name": "Rumali Regular",
+                                                            "category": "Rumali",
+                                                            "description": "Diced chicken rolled in rumali roti with homemade mayo and salad",
+                                                            "imageId": "f5dd642f9b3ba65b56a8dc3baccd3ba1",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968984",
+                                                            "name": "Rumali Special",
+                                                            "category": "Rumali",
+                                                            "description": "Diced chicken rolled in rumali roti with homemade mayo",
+                                                            "imageId": "kcr8wux8qq1uiz9qrhp1",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.2",
+                                                                    "ratingCount": "26 ratings",
+                                                                    "ratingCountV2": "26"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Shawarma",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "97955067",
+                                                            "name": "Grilled Rumali Regular",
+                                                            "category": "Shawarma",
+                                                            "description": "Grilled rumali regular with salad",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204550",
+                                                            "name": "Grilled Samoli Special Shawarma",
+                                                            "category": "Shawarma",
+                                                            "description": "Grilled samoli stuffed with mayo and diced chicken",
+                                                            "imageId": "hrod1qeotghog6qowt73",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "16 ratings",
+                                                                    "ratingCountV2": "16"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204527",
+                                                            "name": "Peri Peri Samoli Shawarma",
+                                                            "category": "Shawarma",
+                                                            "description": "Diced chicken stuffed in samoli bread with homemade peri peri sauce",
+                                                            "imageId": "nngvem6hzbdhgwzlalnu",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204510",
+                                                            "name": "Grilled Rumali Peri Peri Shawarma",
+                                                            "category": "Shawarma",
+                                                            "description": "Diced chicken stuffed in rumali roti with homemade peri peri sauce and grilled to perfection",
+                                                            "inStock": 1,
+                                                            "price": 20000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204507",
+                                                            "name": "Cheese Samoli Shawarma",
+                                                            "category": "Shawarma",
+                                                            "description": "Diced chicken stuffed in samoli bread with authentic cheese sauce",
+                                                            "imageId": "0e51026bdf298672810f9f1cc98ff130",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204502",
+                                                            "name": "Grilled Rumali Cheese Shawarma",
+                                                            "category": "Shawarma",
+                                                            "description": "Diced chicken rolled in rumali roti with authentic cheese sauce and grilled to perfection",
+                                                            "inStock": 1,
+                                                            "price": 19000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204493",
+                                                            "name": "Peri Peri Shawarma In Khubus",
+                                                            "category": "Shawarma",
+                                                            "description": "Fresh pita bread loaded with only diced chicken with per peri masala",
+                                                            "imageId": "tz7gn93byena7rf8o2kg",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204499",
+                                                            "name": "Cheese Shawarma In Khubus",
+                                                            "category": "Shawarma",
+                                                            "description": "Fresh pita bread loaded with only diced chicken with cheese sauce",
+                                                            "imageId": "344938ff44fec174819a5bb2887dbfcd",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968988",
+                                                            "name": "Cheesy Jalapeno Shawarma In Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "Cheesy jalapeno shawarma in rumali",
+                                                            "imageId": "uuvwnfaqzwbagahrhknc",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968989",
+                                                            "name": "Thousand Island Shawarma Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "Diced chicken with authentic thousand island sauce in rumali",
+                                                            "imageId": "bbc7f39f7f2655cb6ee16821e7097a8d",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968990",
+                                                            "name": "Cheese Shawarma Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "Contains cheese, rumali, chicken.",
+                                                            "imageId": "ahy3d7c9uhhtdteqytqw",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "1.8",
+                                                                    "ratingCount": "7 ratings",
+                                                                    "ratingCountV2": "7"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968992",
+                                                            "name": "Chipotle Shawarma In Samoli",
+                                                            "category": "Shawarma",
+                                                            "description": "Diced chicken severed in samoli bread with authentic chipotle sauce",
+                                                            "imageId": "bbc7f39f7f2655cb6ee16821e7097a8d",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968993",
+                                                            "name": "Peri Peri Shawarma In Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "Mayo, chicken, peri peri sauce(serves 1).",
+                                                            "imageId": "oyyzveor5hrgjgrvqnjc",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "2.8",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968994",
+                                                            "name": "Exotic Chicken Shawarma In Rumali",
+                                                            "category": "Shawarma",
+                                                            "description": "A portal to heaven, this irresistible shawarma has chicken in rumali with added layered in bbq, thousand of island, peri peri, cheesy jalapeno, aioli garlic sauce and lots of mayonnaise...",
+                                                            "imageId": "fj5v94blq56shke21poa",
+                                                            "inStock": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "2.5",
+                                                                    "ratingCount": "14 ratings",
+                                                                    "ratingCountV2": "14"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "97956150",
+                                                            "name": "Grilled Samoli Regular Shawarma",
+                                                            "category": "Shawarma",
+                                                            "description": "Grilled samoli regular shawarma",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "110201153",
+                                                            "name": " Rumali Special Shawarmas [serves]",
+                                                            "category": "Shawarma",
+                                                            "description": "2 rumali special shawarma (serves 2)",
+                                                            "imageId": "f5dd642f9b3ba65b56a8dc3baccd3ba1",
+                                                            "inStock": 1,
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Bbq Shawarma",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969000",
+                                                            "name": "Samoli Special BBQ",
+                                                            "category": "Bbq Shawarma",
+                                                            "description": "Chicked warapped in samoli bread with homemade barbeque sauce",
+                                                            "imageId": "rhm6p75gge2c5asbq7pn",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969001",
+                                                            "name": "Rumali Special BBQ",
+                                                            "category": "Bbq Shawarma",
+                                                            "description": "Chicked warapped in rumali roti with homemade barbeque sauce",
+                                                            "imageId": "lkfen8xa6cawx7jnuoix",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "11 ratings",
+                                                                    "ratingCountV2": "11"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969002",
+                                                            "name": "Khubus Special BBQ",
+                                                            "category": "Bbq Shawarma",
+                                                            "description": "Chicked warapped in pita bread with homemade barbeque sauce",
+                                                            "imageId": "wmu0sfkw2txnpkbm8vng",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Combos",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "90042472",
+                                                            "name": "Samoli Special Combo",
+                                                            "category": "Combos",
+                                                            "description": "Samoli special, regular fries and cold drink 250 ml.\n",
+                                                            "inStock": 1,
+                                                            "price": 26900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "90042471",
+                                                            "name": "Rumali Special Combo",
+                                                            "category": "Combos",
+                                                            "description": "Rumali special, regular fries and cold drink 250 ml.\n",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "90042470",
+                                                            "name": "Khubus Special Combo",
+                                                            "category": "Combos",
+                                                            "description": "Khubus special, regular fries and cold drink 250 ml.\n",
+                                                            "inStock": 1,
+                                                            "price": 27900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204073",
+                                                            "name": "Samoli Special + Cool Drink 250ml",
+                                                            "category": "Combos",
+                                                            "description": "Samoli special + cool drink 250ml",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204304",
+                                                            "name": "Rumali Shawarma Regular + Cool Drink 250ml",
+                                                            "category": "Combos",
+                                                            "description": "Rumali shawarma regular + cool drink 250ml",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "2.9",
+                                                                    "ratingCount": "25 ratings",
+                                                                    "ratingCountV2": "25"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85234047",
+                                                            "name": "Rumali Special + Cool Drink 250ml",
+                                                            "category": "Combos",
+                                                            "description": "Rumali special + cool drink 250ml",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "13 ratings",
+                                                                    "ratingCountV2": "13"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "97952836",
+                                                            "name": "Samoli Regular + Cool Drink 250ml",
+                                                            "category": "Combos",
+                                                            "description": "Samoli regular + cool drink 250ml",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "97953063",
+                                                            "name": "Khubus Special + Cool Drink 250ml",
+                                                            "category": "Combos",
+                                                            "description": "Khubus special + cool drink 250ml",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "2.2",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "97953066",
+                                                            "name": "Khubus Regular + Cool Drink 250ml",
+                                                            "category": "Combos",
+                                                            "description": "Khubus regular + cool drink 250ml",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Veg Shawarma",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "99904218",
+                                                            "name": "Veg Falafel Bbq Shawarma",
+                                                            "category": "Veg Shawarma",
+                                                            "description": "Falafel, cabbage, cucumber with veg mayo and bbq sauce.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "99904216",
+                                                            "name": "Veg Falafel Cheese Jalapeno Shawarma",
+                                                            "category": "Veg Shawarma",
+                                                            "description": "Falafel, cabbage, cucumber with veg mayo and cheese jalapeno sauce.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "99904215",
+                                                            "name": "Veg Falafel Peri Peri Shawarma",
+                                                            "category": "Veg Shawarma",
+                                                            "description": "Falafel, cabbage, cucumber with veg mayo and peri peri sauce.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "99904214",
+                                                            "name": "Veg Falafel Cheese Shawarma",
+                                                            "category": "Veg Shawarma",
+                                                            "description": "Falafel, cabbage, cucumber with veg mayo and cheese sauce.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "90042473",
+                                                            "name": "Veg Cheese Shawarma",
+                                                            "category": "Veg Shawarma",
+                                                            "description": "Cheese blend sauce, salad in rumali",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969004",
+                                                            "name": "Veg Falafel Roll",
+                                                            "category": "Veg Shawarma",
+                                                            "description": "Veg falafel roll",
+                                                            "imageId": "givrlqedfo6yp1uiaxng",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 13000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Snacks",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204401",
+                                                            "name": "Peri Peri Dip",
+                                                            "category": "Snacks",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204442",
+                                                            "name": "Chipotle Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Chipotle dip",
+                                                            "imageId": "h3xqcipalyslyeoaxbud",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204438",
+                                                            "name": "Cheese Blend Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Cheese blend dip",
+                                                            "imageId": "b61673a79f56b9d45c9ed83009385ef9",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204894",
+                                                            "name": "Bbq Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Bbq dip",
+                                                            "imageId": "cagitlwwlx8f4kz0ffji",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83968997",
+                                                            "name": "Thousand Island Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Thousand island dip",
+                                                            "imageId": "2180d7f3576663019d9d74b67d4e73cf",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204342",
+                                                            "name": "Cheese Jalapeno Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Cheese jalapeno dip",
+                                                            "imageId": "nv6n5xwtnu6tl9pftlle",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "83969010",
+                                                            "name": "Mayonnaise Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Mayonnaise dip",
+                                                            "imageId": "xb7noqz5liewrexmvqhu",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "8 ratings",
+                                                                    "ratingCountV2": "8"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "86298685",
+                                                            "name": "Aioli Dip",
+                                                            "category": "Snacks",
+                                                            "description": "Aioli dip",
+                                                            "imageId": "xb7noqz5liewrexmvqhu",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Sabbah",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "85204333",
+                                                            "name": "Extra Khubus Or Rumali",
+                                                            "category": "Sabbah",
+                                                            "description": "Extra khubus or rumali",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 2000,
+                                                            "variants": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "13451079",
+                                                                        "name": "Choice Of Roti",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Khubus",
+                                                                                "default": 1,
+                                                                                "id": "43753935",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Rumali",
+                                                                                "id": "43753936",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 23622032000285"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Chicken Shawarma Hub",
+                                            "area": "Madhapur",
+                                            "completeAddress": "144, Gayatri Nagar, Parvathi Nagar, Borabanda, Hyderabad, Telangana 500018, India"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "0e877406-3661-4114-850f-975db11c65cf",
+    "sid": "ac164f75-e5cb-4c36-8193-a040e50a7941",
+    "deviceId": "430ca9f9-a29e-c707-cad3-d5be6e4b061e",
+    "csrfToken": "jvxWHNsVFj3O-8jHYdOQXRFoRf0rCuwilgzW3oCI"
+}

@@ -4,7 +4,6 @@ import UserContext from "../utils/UserContex";
 
 const RestaurantCard = (props) => {
   const { resData } = props;
-
   const {loggedInUser} = useContext(UserContext)
 
   const {
@@ -18,7 +17,7 @@ const RestaurantCard = (props) => {
   const {deliveryTime} = resData?.info.sla
 
   return (
-    <div className="m-4 p-4 w-[250px] rounded-lg bg-gray-100 hover:bg-green-200">
+    <div data-testid = "resCard" className="m-4 p-4 w-[250px] rounded-lg bg-gray-100 hover:bg-green-200">
       <img
         className="rounded-lg"
         alt="res-logo"

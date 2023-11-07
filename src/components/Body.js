@@ -56,6 +56,7 @@ const Body = () => {
         <div className="search m-4 p-4">
           <input
             type="text"
+            data-testid = "searchInput"
             className="border border-solid border-black rounded-md p-1"
             value={searchText}
             onChange={(e) => {
@@ -67,7 +68,7 @@ const Body = () => {
             onClick={() => {
               // Filter the restraunt cards and update the UI
               // searchText
-              console.log(searchText);
+              //console.log(searchText);
 
               const filteredRestaurant = listOfRestaurants.filter((res) =>
                 res.info.name.toLowerCase().includes(searchText.toLowerCase())
@@ -86,7 +87,7 @@ const Body = () => {
               const filteredList = listOfRestaurants.filter(
                 (res) => res.info.avgRating > 4
               );
-              console.log(filteredList);
+              //console.log(filteredList);
               setFilteredRestaurant(filteredList);
             }}
           >

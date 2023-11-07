@@ -1,0 +1,22 @@
+{
+    "id": "23696",
+    "name": "McDonald's",
+    "cloudinaryImageId": "bb7ae131544c7d37e10fc5faf76f09d6",
+    "costForTwo": "₹400 for two",
+    "cuisines": [
+        "Burgers",
+        "Beverages",
+        "Cafe",
+        "Desserts"
+    ],
+    "avgRating": 4.1,
+    "avgRatingString": "4.1",
+    "sla": {
+        "deliveryTime": 31,
+        "lastMileTravel": 4.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "31 mins",
+        "lastMileTravelString": "4.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    }
+}
